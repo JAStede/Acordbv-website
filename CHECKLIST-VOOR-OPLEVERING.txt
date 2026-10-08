@@ -1,0 +1,14 @@
+ACORD — openstaande controles voor oplevering
+
+[ ] Logo akkoord
+[ ] Echte projectfoto’s en gebruiksrechten
+[ ] Projectomschrijvingen akkoord
+[ ] Alle 3 talen door Acord gecontroleerd
+[ ] Telefoon, e-mail, adres en bedrijfsgegevens geverifieerd
+[ ] Certificeringen gecontroleerd
+[ ] Privacyverklaring definitief
+[ ] Mobiele navigatie en alle links live getest
+[ ] SEO redirectplan huidige WordPress-URL’s
+[ ] DNS, e-mailrecords en hostingplan vastgelegd
+[ ] Staging noindex behouden / live indexeerbaar na akkoord
+[ ] Website performance en toegankelijkheid getest

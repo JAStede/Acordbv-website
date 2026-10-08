@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Concept only: remove this block at launch.
